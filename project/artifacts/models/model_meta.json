@@ -1,0 +1,21 @@
+{
+  "best_model": "Logistic Regression",
+  "label_classes": [
+    "Action",
+    "Adult",
+    "Adventure",
+    "Comedy",
+    "Documentary",
+    "Drama",
+    "Family",
+    "Horror",
+    "Music",
+    "Reality-Tv",
+    "Romance",
+    "Sci-Fi",
+    "Short",
+    "Thriller",
+    "Western"
+  ],
+  "best_f1": 0.6132
+}
